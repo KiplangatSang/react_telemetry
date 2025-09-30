@@ -1,4 +1,3 @@
-
 # React Telemetry Lib
 
 A **cross-platform telemetry library** for React and React Native.  
